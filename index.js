@@ -12,5 +12,6 @@
         <script src="script.js"></script>
     </script>
 </body>
+     < // Number></script>
 </html>
 
